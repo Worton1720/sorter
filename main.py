@@ -92,6 +92,7 @@ extensions = {
     "mobile": ["apk", "obb"],
     "different": ["mcaddon", "mcpack", "ct"],
     "backup": ["bak", "bak2"],
+    "other": []
 }
 
 
